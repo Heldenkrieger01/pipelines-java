@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/christianthalmann/Globi/_apis/build/status/Heldenkrieger01.pipelines-java?branchName=master)](https://dev.azure.com/christianthalmann/Globi/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
